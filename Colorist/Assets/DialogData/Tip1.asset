@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 079019fd990cdfc4598ff117e409d425, type: 3}
+  m_Name: Tip1
+  m_EditorClassIdentifier: 
+  dialog:
+  - 'Hey Kiddo!!!
+
+    Look like you new here
+
+    Let''s me teach you magic trick'
+  - 'You can move by pressing ''A'' or ''D''
+
+    and you can Jump by pressing ''
+    Space bar ''
+
+    You can interact with some object using ''E''
+
+
+'
+  - 'Last Magic trick!!!
+
+    You can change your color to interact ...'
+  - 'with objects that have the same color.
+
+    You can change your color
+
+    by
+    standing on platform overthere!!'
+  - ' Isn''t that cool?'
+  - It's time for you to go
+  - 'Don''t worry
+
+    We will be looting for you'
+  - We will meet again soon :D
