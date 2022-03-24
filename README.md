@@ -1,2 +1,14 @@
 # Colorlist
 MTE-415 Game Development Final Project
+Member
+1. ฐิติพันธ์ ดำเด่นงาม    1913210108 Coding & Sound
+2. ดนุสรณ์ กนกยุราพันธ์  1913210306 Graphic & Level Design
+3. สหัสวรรษ มั่นพุฒิสรรค์ 1913210322 Graphic & Cutscene
+
+Video Preview 
+
+Full Gameplay
+
+Export Game
+
+Unity Package
